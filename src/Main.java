@@ -4,5 +4,10 @@ public class Main {
         honda.color="white";
         honda.model="accord";
         honda.power="500cc";
+
+        engine engine=new engine();
+        engine.horsepower="125";
+        engine.size="1.5";
+        engine.cilinder="4";
     }
 }

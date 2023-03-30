@@ -9,5 +9,10 @@ public class Main {
         engine.horsepower="125";
         engine.size="1.5";
         engine.cilinder="4";
+
+        Color color=new Color();
+        color.colorLights="white";
+        color.colorSeats="beige";
+        color.colorWindows="black";
     }
 }

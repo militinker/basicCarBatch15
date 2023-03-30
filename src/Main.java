@@ -9,5 +9,10 @@ public class Main {
         engine.horsepower="125";
         engine.size="1.5";
         engine.cilinder="4";
+
+        lights lights=new lights();
+        lights.color="yellow";
+        lights.size="big & small";
+        lights.intensity="low beam";
     }
 }

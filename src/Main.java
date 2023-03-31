@@ -10,9 +10,16 @@ public class Main {
         engine.size="1.5";
         engine.cilinder="4";
 
+
         Color color=new Color();
         color.colorLights="white";
         color.colorSeats="beige";
         color.colorWindows="black";
+
+        lights lights=new lights();
+        lights.color="yellow";
+        lights.size="big & small";
+        lights.intensity="low beam";
+
     }
 }
